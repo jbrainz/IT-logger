@@ -17,5 +17,4 @@ const TechItem = ({tech}) => {
 TechItem.propTypes = {
 tech: PropTypes.object.isRequired,
 }
-
-export default TechItem
+export default TechItem;
